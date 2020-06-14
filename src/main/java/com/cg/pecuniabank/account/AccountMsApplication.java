@@ -1,4 +1,4 @@
-package com.cg.AccountMS;
+package com.cg.pecuniabank.account;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

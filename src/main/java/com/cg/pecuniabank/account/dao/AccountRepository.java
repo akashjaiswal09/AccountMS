@@ -1,9 +1,9 @@
-package com.cg.AccountMS.dao;
+package com.cg.pecuniabank.account.dao;
 
 import java.util.List;
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import com.cg.AccountMS.dto.AccountEntity;
+import com.cg.pecuniabank.account.dto.AccountEntity;
 
 
 
